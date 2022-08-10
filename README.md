@@ -10,11 +10,11 @@
 <ul>
   Hey 👋🏻,
 
-<p> I am Taseen.I am lazy person who love to surf online. I dunno any programming language yet but i know how to build and design website, still noob though. My hobby is trying to make things related to IT sector. But i get bord after accomplishing that so i throw it away after sometime. Love to do little things like building website, cracking android app, sometime video editing, helping my online friends and more. </p>
+<p> I am Ariyan.I am lazy person who love to surf online. I dunno any programming language yet but i know how to build and design website, still noob though. My hobby is trying to make things related to IT sector. But i get bord after accomplishing that so i throw it away after sometime. Love to do little things like building website, cracking android app, sometime video editing, helping my online friends and more. </p>
   
   <li>🌱 I’m currently trying to learn.</li>
   <li>😄 Pronouns: He/Him</li>
-  <li> 🌲  <a href="https://tas33n.github.io"> View My Linktree</a></li>
+  <li> 🌲  <a href="toxicariyan.github.io"> View My Linktree</a></li>
 </ul>
 
 <br>
