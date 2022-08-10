@@ -2,7 +2,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/43749971/134393227-26ca48dc-c446-4d55-93d0-5ff4deeb4977.gif" align="right" height="220">
+<img src="https://github.com/toxicariyan/toxicariyan.github.io/blob/main/images/misc/anime_boy_png-removebg-preview.png" align="right" height="220">
 
 <h2>𝒜𝒷𝑜𝓊𝓉 𝑀𝑒</h2>
 
